@@ -1,0 +1,10 @@
+# Secret Scanner - Requirements
+#
+# This project intentionally uses ONLY the Python Standard Library (Python 3.8+):
+# - tkinter   (desktop graphical user interface)
+# - re        (regular expression pattern engine)
+# - csv       (safe masked report export)
+# - os / sys  (safe directory traversal and path normalization)
+#
+# No external pip dependencies (such as requests, flask, or pandas) are needed.
+# The tool runs completely out-of-the-box on standard Python installations!
